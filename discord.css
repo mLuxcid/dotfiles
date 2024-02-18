@@ -1,0 +1,17 @@
+/* OpenASAR theming */
+
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css");
+::placeholder,
+body,
+button,
+input,
+select,
+textarea,
+* {
+    font-family: "JetBrainsMono Nerd Font";
+}
+.codeBlockText__6172e,
+code {
+    font-family: "JetBrainsMono Nerd Font";
+}
+
