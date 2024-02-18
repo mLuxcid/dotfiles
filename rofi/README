@@ -1,0 +1,2 @@
+config.rasi goes into ~/.config/rofi
+themes/ go into ~/.local/share/rofi
